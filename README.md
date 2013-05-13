@@ -1,0 +1,4 @@
+blog
+====
+
+Seven's Blog

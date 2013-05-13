@@ -1,4 +1,6 @@
 blog
 ====
 
-Seven's Blog
+Welcome to Seven's Blog!
+
+study together~~~
